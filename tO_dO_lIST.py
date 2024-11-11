@@ -1,7 +1,9 @@
 ####This is a today project for theb github 30 day challenge###
+
 ###create class
 
 class ToDoList:
+##Define##
     def _init_(self):
      self.tasks=[]
     def add_task(self, task):
